@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Younesbhb
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning C, C++, Javascript, Python
+- 🌱 I’m currently learning C, C++, JavaScript, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : younes514@yahoo.ca
 
