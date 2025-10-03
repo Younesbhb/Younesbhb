@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Younesbhb
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : younes514@yahoo.ca
 
 <!---
